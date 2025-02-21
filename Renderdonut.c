@@ -8,11 +8,11 @@ int main() {
     float z[1760];
     char b[1760];
 
-    printf("\x1b[2J"); // Clear screen
+    printf("\x1b[2J"); 
 
     for (;;) {
-        memset(b, 32, 1760);  // Fill with spaces
-        memset(z, 0, 7040);   // Reset depth buffer
+        memset(b, 32, 1760);  
+        memset(z, 0, 7040);   
 
         for (j = 0; j < 6.28; j += 0.07) {
             for (i = 0; i < 6.28; i += 0.02) {
@@ -32,7 +32,7 @@ int main() {
             }
         }
 
-        printf("\x1b[H");  // Move cursor to home position
+        printf("\x1b[H");  
         for (int k = 0; k < 1761; k++) {
             putchar(k % 80 ? b[k] : 10);
         }
