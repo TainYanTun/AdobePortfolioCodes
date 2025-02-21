@@ -18,32 +18,27 @@ Here’s a list of projects included in this repository:
    - Explores concepts like data preprocessing, model training, and evaluation.
    - [View Code](/Machinglearning.py)
 
-### 3. **Mandelbrot Fractal Generator 🌀**
-   - A Python script to generate Mandelbrot fractals.
-   - Demonstrates complex number calculations and visualization.
-   - [View Code](/Mandelbrotfractalgenerator.py)
-
-### 4. **Render Donut 🍩**
+### 3. **Render Donut 🍩**
    - A C program that renders a 3D donut using ASCII characters.
    - Based on the famous "donut.c" code by Andy Sloane.
    - [View Code](/Renderdonut.c)
 
-### 5. **Snake Game 🐍**
+### 4. **Snake Game 🐍**
    - A classic Snake Game built using Python and Pygame.
    - Features: Snake movement, food collection, collision detection, and score tracking.
    - [View Code](/Snakegame.py)
 
-### 6. **Tic-Tac-Toe ❌⭕**
+### 5. **Tic-Tac-Toe ❌⭕**
    - A Tic-Tac-Toe game with an AI opponent using the Minimax algorithm.
    - Features: Interactive gameplay, unbeatable AI, and a graphical interface using Pygame.
    - [View Code](/Tic-Tac-Toe.py)
 
-### 7. **Turtle Pattern 🐢**
+### 6. **Turtle Pattern 🐢**
    - A Python script that generates beautiful patterns using the Turtle graphics library.
    - Demonstrates the use of loops and recursion in creating art.
    - [View Code](/TurtlePattern.py)
 
-### 8. **Wave Simulation 🌊**
+### 7. **Wave Simulation 🌊**
    - A Python script that simulates wave patterns using mathematical functions.
    - Demonstrates the use of visualization libraries like Matplotlib.
    - [View Code](/Wave.py)
