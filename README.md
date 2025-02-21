@@ -49,7 +49,6 @@ Here’s a list of projects included in this repository:
 Each project is represented by a standalone file. Here’s a quick guide to the files in this repository:
 - **Bouncingball.py**: A bouncing ball animation.
 - **Machinglearning.py**: A basic machine learning project.
-- **Mandelbrotfractalgenerator.py**: A Mandelbrot fractal generator.
 - **README.md**: This file, providing an overview of the repository.
 - **Renderdonut.c**: A 3D donut renderer in C.
 - **Snakegame.py**: A classic Snake Game.
