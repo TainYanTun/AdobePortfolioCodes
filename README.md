@@ -68,9 +68,3 @@ Here are the key technologies and tools used across my projects:
 - **Machine Learning Libraries**: For the machine learning project.
 
 ---
-
-## **How to Run the Projects**
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/your-portfolio-repo.git
-   
